@@ -1,2 +1,5 @@
 *.py
+*.sh
+*.cjs
+*.png
 .DS_Store
